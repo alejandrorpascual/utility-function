@@ -11,3 +11,8 @@ randomElement([1, 2, 3]);
 randomNumber(1, 10);
 //=> 4
 ```
+
+```
+URLSlug('My Favorite Songs');
+//=> 'my-favorite-songs'
+```
